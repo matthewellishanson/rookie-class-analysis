@@ -7,3 +7,4 @@ numpy
 jupyter
 jupyterlab
 lxml
+duckdb
